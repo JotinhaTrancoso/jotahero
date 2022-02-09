@@ -1,0 +1,10 @@
+Requirements
+
+    Go >= 1.11
+    DBeaver
+
+Install
+
+1. postgresql folder -> Click PostgreSQLPortable.exe -> Wait until it finished
+2. Extract Data.7z
+3. config folder -> default.go -> replace "YOURSQLPASSWORD"
